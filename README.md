@@ -3,8 +3,8 @@ Hi there! I am Mayank Gupta, Undergrad Student Learning full stack web developme
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mayank-gupta-36b452218) [![Twitter](https://img.shields.io/badge/X-black.svg?logo=Twitter&logoColor=white)](https://x.com/MayankG024) [![Discord](https://img.shields.io/discord/1257568057065341052?logo=Discord&logoColor=%237289d9")](https://discord.com/channels/@me/1257568057065341052)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mayank-gupta-36b452218)  [![Discord](https://img.shields.io/discord/1257568057065341052?logo=Discord&logoColor=%237289d9")](https://discord.com/channels/@me/1257568057065341052)
+  [![Twitter](https://img.shields.io/badge/X-black.svg?logo=Twitter&logoColor=white)](https://x.com/MayankG024)
 
 
 # 💻 Tech Stack:
