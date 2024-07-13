@@ -1,5 +1,5 @@
 # 💫 About Me :
-Hi there! I am Mayank Gupta, Undergrad Student Learning full stack web development .<br>technologies - MERN stack <br>also playing around with AI/ML
+Hi there! I am Mayank Gupta, Undergrad Student on my way to build the next big thing! <br>technologies - MERN stack <br>also playing around with AI/ML
 
 
 ## 🌐 Socials:
