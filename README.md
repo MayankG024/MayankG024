@@ -1,6 +1,6 @@
 # 💫 About Me 
 Hi there! I am Mayank Gupta, Undergrad Student on my way to build the next BIG thing! <br>technologies - MERN stack <br>also playing around with AI/ML
-Connect with me on Twitter ↓ (i don't like linkedin)
+<br> Connect with me on Twitter ↓ (i don't like linkedin)
 
 
 
