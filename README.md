@@ -1,6 +1,6 @@
 ## About Me 
 Hi there! I am Mayank Gupta, A Software Engineer on my way to build the next BIG thing! <br>technologies - MERN stack <br>also playing around with AI/ML
-<br> Visit [maynk.me](https;//maynk.me) to connect for work collaboration and opportunites!
+<br> Visit [maynk.me](https://maynk.me) to connect for work collaboration and opportunites!
 <br> To know more about me and to read my essays visit [mynk.site](https://mynk.site)
 <br> Connect with me on Twitter ↓
 
