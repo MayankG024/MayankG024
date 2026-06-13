@@ -16,21 +16,21 @@ I enjoy taking products from a blank document to production deployment. <br>
 
 <td align="center" width="180">
 <a href="https://linkedin.com/in/mayank-gupta-36b452218">
-<img src="https://skillicons.dev/icons?i=linkedin" width="60"/><br><br>
+<img src="https://skillicons.dev/icons?i=linkedin" width="30"/><br><br>
 <b>LinkedIn</b>
 </a>
 </td>
 
 <td align="center" width="180">
 <a href="https://x.com/MayankG024">
-<img src="https://cdn.simpleicons.org/x/ffffff" width="60"/><br><br>
+<img src="https://cdn.simpleicons.org/x/ffffff" width="30"/><br><br>
 <b>X</b>
 </a>
 </td>
 
 <td align="center" width="180">
 <a href="https://maynk.me">
-<img src="https://cdn.simpleicons.org/googlechrome/4285F4" width="60"/><br><br>
+<img src="https://cdn.simpleicons.org/googlechrome/4285F4" width="30"/><br><br>
 <b>Portfolio</b>
 </a>
 </td>
