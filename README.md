@@ -6,49 +6,127 @@ Hi there! I am Mayank Gupta, A Software Engineer on my way to build the next BIG
 
 
 
-## 🌐 Socials 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mayank-gupta-36b452218)  [![Discord](https://img.shields.io/discord/1257568057065341052?logo=Discord&logoColor=%237289d9")](https://discord.com/channels/@me/1257568057065341052)
-  [![Twitter](https://img.shields.io/badge/X-black.svg?logo=Twitter&logoColor=white)](https://x.com/MayankG024)
+<h2>🌐 Connect With Me</h2>
+
+<table>
+<tr>
+
+<td align="center" width="33%">
+
+<a href="https://linkedin.com/in/mayank-gupta-36b452218">
+<img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
+<br><br>
+<b>LinkedIn</b>
+</a>
+
+</td>
+
+<td align="center" width="33%">
+
+<a href="https://x.com/MayankG024">
+<img src="https://cdn.simpleicons.org/x/ffffff" width="40"/>
+<br><br>
+<b>X </b>
+</a>
+
+</td>
+
+<td align="center" width="33%">
+
+<a href="https://maynk.me">
+<img src="https://cdn.simpleicons.org/googlechrome/4285F4" width="40"/>
+<br><br>
+<b>Portfolio</b>
+</a>
+
+</td>
+
+</tr>
+</table>
 
 
-# 💻 Tech Stack
+<h2>⚡ Engineering Stack</h2>
 
-**🎨 Frontend**  
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+<table>
+<tr>
 
-**⚙️ Backend**  
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-D82C20?style=for-the-badge&logo=redis&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+<td valign="top" width="25%">
 
-**🛠 Tools**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+<h3> Frontend</h3>
+<hr>
 
-**☁️ DevOps & Cloud**  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+<div style="line-height:2;">
+
+<img src="https://skillicons.dev/icons?i=ts" height="22"/> TypeScript<br>
+<img src="https://skillicons.dev/icons?i=react" height="22"/> React<br>
+<img src="https://skillicons.dev/icons?i=nextjs" height="22"/> Next.js<br>
+<img src="https://skillicons.dev/icons?i=tailwind" height="22"/> Tailwind CSS<br>
+<img src="https://skillicons.dev/icons?i=threejs" height="22"/> Three.js<br>
+🎞️ Framer Motion<br>
+
+</div>
+
+</td>
+
+<td valign="top" width="25%">
+
+<h3> Backend</h3>
+<hr>
+
+<div style="line-height:2;">
+
+<img src="https://skillicons.dev/icons?i=nodejs" height="22"/> Node.js<br>
+<img src="https://skillicons.dev/icons?i=express" height="22"/> Express.js<br>
+<img src="https://skillicons.dev/icons?i=postgres" height="22"/> PostgreSQL<br>
+<img src="https://skillicons.dev/icons?i=prisma" height="22"/> Prisma<br>
+<img src="https://skillicons.dev/icons?i=redis" height="22"/> Redis<br>
+<img src="https://skillicons.dev/icons?i=graphql" height="22"/> GraphQL<br>
+🌐 REST APIs
+
+</div>
+
+</td>
+
+<td valign="top" width="25%">
+
+<h3> AI & Tools</h3>
+<hr>
+
+<div style="line-height:2;">
 
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=MayankG024&limit=5&theme=noctis_minimus&combine_all_yearly_contributions=true)
----
-[![](https://visitcount.itsvg.in/api?id=MayankG024&icon=2&color=12)](https://visitcount.itsvg.in)
+🦜 LangChain<br>
+🔌 MCP<br>
+<img src="https://skillicons.dev/icons?i=git" height="22"/> Git<br>
+<img src="https://skillicons.dev/icons?i=github" height="22"/> GitHub<br>
+<img src="https://skillicons.dev/icons?i=postman" height="22"/> Postman<br>
+<img src="https://skillicons.dev/icons?i=figma" height="22"/> Figma<br>
+<img src="https://skillicons.dev/icons?i=shopify" height="22"/> Shopify
+
+</div>
+
+</td>
+
+<td valign="top" width="25%">
+
+<h3> DevOps</h3>
+<hr>
+
+<div style="line-height:2;">
+
+<img src="https://skillicons.dev/icons?i=docker" height="22"/> Docker<br>
+<img src="https://skillicons.dev/icons?i=kubernetes" height="22"/> Kubernetes<br>
+<img src="https://skillicons.dev/icons?i=githubactions" height="22"/> GitHub Actions<br>
+<img src="https://skillicons.dev/icons?i=aws" height="22"/> AWS<br>
+<img src="https://skillicons.dev/icons?i=gcp" height="22"/> GCP<br>
+<img src="https://skillicons.dev/icons?i=nginx" height="22"/> Nginx<br>
+<img src="https://skillicons.dev/icons?i=sentry" height="22"/> Sentry
+
+</div>
+
+</td>
+
+</tr>
+</table>
+
 
