@@ -1,9 +1,12 @@
 ## About Me 
-Hi there! I am Mayank Gupta, A Software Engineer on my way to build the next BIG thing! <br>technologies - MERN stack <br>also playing around with AI/ML
-<br> Visit [maynk.me](https://maynk.me) to connect for work collaboration and opportunites!
+Hello World! I'm Mayank, software engineer passionate about building end-to-end digital products.
+
+Over the last few years I've worked across frontend engineering, backend systems, cloud infrastructure, and AI applications. I've worked with a Early age Tech Startup and as a Freelance developer. 
+
+I enjoy taking products from a blank document to production deployment. <br>
+<br> Visit [maynk.me](https://maynk.me) to connect for work collaboration and opportunites!<br>
 <br> To know more about me and to read my essays visit [mynk.site](https://mynk.site)
 <br> Connect with me on Twitter ↓
-
 
 
 <h2>🌐 Connect With Me</h2>
@@ -11,39 +14,29 @@ Hi there! I am Mayank Gupta, A Software Engineer on my way to build the next BIG
 <table>
 <tr>
 
-<td align="center" width="33%">
-
+<td align="center" width="180">
 <a href="https://linkedin.com/in/mayank-gupta-36b452218">
-<img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
-<br><br>
+<img src="https://skillicons.dev/icons?i=linkedin" width="60"/><br><br>
 <b>LinkedIn</b>
 </a>
-
 </td>
 
-<td align="center" width="33%">
-
+<td align="center" width="180">
 <a href="https://x.com/MayankG024">
-<img src="https://cdn.simpleicons.org/x/ffffff" width="40"/>
-<br><br>
-<b>X </b>
+<img src="https://cdn.simpleicons.org/x/ffffff" width="60"/><br><br>
+<b>X</b>
 </a>
-
 </td>
 
-<td align="center" width="33%">
-
+<td align="center" width="180">
 <a href="https://maynk.me">
-<img src="https://cdn.simpleicons.org/googlechrome/4285F4" width="40"/>
-<br><br>
+<img src="https://cdn.simpleicons.org/googlechrome/4285F4" width="60"/><br><br>
 <b>Portfolio</b>
 </a>
-
 </td>
 
 </tr>
 </table>
-
 
 <h2>⚡ Engineering Stack</h2>
 
