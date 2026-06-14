@@ -3,7 +3,7 @@ Hello World! I'm Mayank, software engineer passionate about building end-to-end 
 
 Over the last few years I've worked across frontend engineering, backend systems, cloud infrastructure, and AI applications. I've worked with a Early age Tech Startup and as a Freelance developer. 
 
-I enjoy taking products from a blank document to production deployment. <br>
+Taking products from a blank document to production deployment. <br>
 <br> Visit [maynk.me](https://maynk.me) to connect for work collaboration and opportunites!<br>
 <br> To know more about me and to read my essays visit [mynk.site](https://mynk.site)
 <br> Connect with me on Twitter ↓
@@ -82,13 +82,12 @@ I enjoy taking products from a blank document to production deployment. <br>
 
 <td valign="top" width="25%">
 
-<h3> AI & Tools</h3>
+<h3> Tools</h3>
 <hr>
 
 <div style="line-height:2;">
 
 
-🦜 LangChain<br>
 🔌 MCP<br>
 <img src="https://skillicons.dev/icons?i=git" height="22"/> Git<br>
 <img src="https://skillicons.dev/icons?i=github" height="22"/> GitHub<br>
