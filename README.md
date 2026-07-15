@@ -9,7 +9,7 @@ Taking products from a blank document to production deployment. <br>
 <br> Connect with me on Twitter ↓
 
 
-<h2>🌐 Connect With Me</h2>
+<h2> Connect With Me</h2>
 
 <table>
 <tr>
@@ -38,7 +38,7 @@ Taking products from a blank document to production deployment. <br>
 </tr>
 </table>
 
-<h2>⚡ Engineering Stack</h2>
+<h2> Engineering Stack</h2>
 
 <table>
 <tr>
