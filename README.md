@@ -5,7 +5,7 @@ Over the last few years I've worked across frontend engineering, backend systems
 
 Taking products from a blank document to production deployment. <br>
 <br> Visit [maynk.me](https://maynk.me) to connect for work collaboration and opportunites!<br>
-<br> To know more about me and to read my essays visit [mynk.site](https://mynk.site)
+<br> To know more about me and to read my essays visit [blog.maynk.me](https://blog.maynk.me/)
 <br> Connect with me on Twitter ↓
 
 
