@@ -1,7 +1,7 @@
 ## About Me 
 Hello World! I'm Mayank, software engineer passionate about building end-to-end digital products.
 
-Over the last few years I've worked across frontend engineering, backend systems, cloud infrastructure, and AI applications. I've worked with a Early age Tech Startup and as a Freelance developer. 
+Over the last few years I've worked across frontend engineering, backend systems, cloud infrastructure, and AI applications. I've worked with a Early age Tech Startup and as a Freelance developer. Extremely bullish on AI and agents.
 
 Taking products from a blank document to production deployment. <br>
 <br> Visit [maynk.me](https://maynk.me) to connect for work collaboration and opportunites!<br>
